@@ -1,16 +1,11 @@
 # clima_weather_detector
 
-An app made in flutter that is able to look up the weather for any town anywhere using real-time data from google. Made as part of a udemy course I am taking.
+An app made in flutter that is able to look up the weather for any town anywhere using real-time data from OpenWeatherMap. Made as part of a udemy course I am taking. Accesses the phone's physical location in order to give the current weather for that location but is also able of looking up weather for any city in the whole dang world. 
 
-## Getting Started
+## Final Result
+![weather_app](https://user-images.githubusercontent.com/79337953/131199209-caed8a8a-a93b-4dc7-a420-b71e299bde61.gif)
 
-This project is a starting point for a Flutter application.
+Worth noting that I did make some custom artwork feature my cat, Bernina, for each of the different weather conditions. I am very very proud of those. I played around with adding some additional functionality that goes beyond that of the course. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## I am availible for commissions on those cat paintings. 
