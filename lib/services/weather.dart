@@ -1,7 +1,7 @@
 import 'package:clima_weather_detector/services/location.dart';
 import 'package:clima_weather_detector/services/networking.dart';
 
-const String kApiKey = '14795d06f2d0dde7510468bb8de57e91';
+const String kApiKey = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 const String kOpenWeatherURL =
     'https://api.openweathermap.org/data/2.5/weather';
 
