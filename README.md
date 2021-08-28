@@ -8,4 +8,4 @@ An app made in flutter that is able to look up the weather for any town anywhere
 Worth noting that I did make some custom artwork feature my cat, Bernina, for each of the different weather conditions. I am very very proud of those. I played around with adding some additional functionality that goes beyond that of the course. 
 
 
-## I am availible for commissions on those cat paintings. 
+## I am availible for commissions on those cat drawings. 
